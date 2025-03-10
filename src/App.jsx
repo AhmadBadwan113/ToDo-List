@@ -9,6 +9,7 @@ function App() {
 
       </div>
       <p>i love hossam 🤫</p>
+      <p>i love Ahmad too 🤫</p>
     </>
   )
 }
